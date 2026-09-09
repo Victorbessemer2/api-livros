@@ -41,7 +41,6 @@ CREATE TABLE `livros` (
 
 INSERT INTO `livros` (`id`, `titulo`, `autor`, `ano_publicacao`, `disponivel`) VALUES
 (1, 'O pequeno principe', 'Antoine de Saint-Exupéry', 1943, 1),
-(2, 'O pequeno principe', 'Antoine de Saint-Exupéry', 1943, 1);
 
 --
 -- Índices para tabelas despejadas
